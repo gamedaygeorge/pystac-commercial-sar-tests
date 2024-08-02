@@ -21,7 +21,9 @@ To run the [`pystac_commercial_sar_test.ipynb`](./notebooks/pystac_commercial_sa
 
 2. **Open Jupyter Lab**
 
-   - Once the Codespace environment is ready, open Jupyter Lab by clicking on the `Open Jupyter` button.
+   - Once the Codespace environment is ready, open Jupyter Lab by clicking on the `Open in JupyterLab` button.
+     
+<img width="1275" alt="Screenshot 2024-08-02 at 11 53 13 AM" src="https://github.com/user-attachments/assets/a1824869-5cc2-4445-8dbf-55083107568b">
 
 3. **Open the Notebook**
 
